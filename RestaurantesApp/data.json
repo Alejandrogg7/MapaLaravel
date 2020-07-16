@@ -1,0 +1,16 @@
+[{
+        "nombre": "Old Town",
+        "telefono": 8899999,
+        "geo": { "lat": 5.061235, "lng": -75.488771 }
+    },
+    {
+        "nombre": "Santa Barbara",
+        "telefono": 2222222,
+        "geo": { "lat": 5.055264, "lng": -75.486439 }
+    },
+    {
+        "nombre": "Club Versace",
+        "telefono": 3333333,
+        "geo": { "lat": 5.062257, "lng": -75.496159 }
+    }
+]
